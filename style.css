@@ -1,0 +1,15 @@
+
+body{
+    background-color: black;
+    border: 3px solid gray;
+}
+.heading{
+    color: goldenrod;
+    font-size: 34px;
+    font-family: 'roboto bald talic' , 'Times New Roman', Times, serif;
+    
+}
+.paragraph{
+    color: white;
+    font-size: 24px;
+}
